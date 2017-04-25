@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">zt_demo</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="home_menu_title">扫描</string>
+    <string name="nav_item_setting">设置</string>
+
+</resources>
